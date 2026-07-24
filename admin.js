@@ -877,7 +877,7 @@ async function exportSummaryPDF() {
   const { jsPDF } = await import("https://cdn.jsdelivr.net/npm/jspdf@2.5.1/+esm");
   const [teachers, students, courses] = await Promise.all([getDocs(collection(db, COL.teachers)), getDocs(collection(db, COL.students)), getDocs(collection(db, COL.courses))]);
   const pdf = new jsPDF();
-  pdf.setFontSize(16); pdf.text("CAC Good Works Assembly Believers Bible College", 15, 20);
+  pdf.setFontSize(16); pdf.text("Scholar's Camp", 15, 20);
   pdf.setFontSize(11); pdf.text("Platform Summary Report", 15, 28);
   pdf.text(`Teachers: ${teachers.size}`, 15, 42);
   pdf.text(`Students: ${students.size}`, 15, 50);
