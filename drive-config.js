@@ -12,8 +12,8 @@
    ========================================================================== */
 
 // ---- REPLACE WITH YOUR OWN GOOGLE CLOUD CREDENTIALS ------------------------
-export const GOOGLE_CLIENT_ID = "719224281899-cao87qtjt4oggg9m3dqfsjv0mejcgbtr.apps.googleusercontent.com";
-export const GOOGLE_API_KEY = "AIzaSyCNzS_PJAIqlnzE-JW_Ba_GZY3kTBSiBr4";
+export const GOOGLE_CLIENT_ID = "99226911453-ooejt6q5l1fv17ft6bbuhnt257cft1go.apps.googleusercontent.com";
+export const GOOGLE_API_KEY = "AIzaSyDkjStmCKk5S63cn3RuOR5AJr_2AeT0s_E";
 // -----------------------------------------------------------------------
 
 // NOTE ON SCOPE: this used to request the narrower "drive.file" permission,
