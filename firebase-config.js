@@ -29,12 +29,12 @@ import {
 
 // ---- REPLACE WITH YOUR OWN FIREBASE PROJECT CONFIG ------------------------
 const firebaseConfig = {
-  apiKey: "AIzaSyCjnth5WlncQX_LPCWN8IafIBa3a_Saq6o",
-  authDomain: "gwabbc-b8bab.firebaseapp.com",
-  projectId: "gwabbc-b8bab",
-  storageBucket: "gwabbc-b8bab.firebasestorage.app",
-  messagingSenderId: "382959481552",
-  appId: "1:382959481552:web:a0041eeb739a5b4935a4d5"
+  apiKey: "AIzaSyDmBnHfiTsDA78DXYxWb9-pF4Rmm7ScoVM",
+    authDomain: "scholar-7938a.firebaseapp.com",
+    projectId: "scholar-7938a",
+    storageBucket: "scholar-7938a.firebasestorage.app",
+    messagingSenderId: "599869942046",
+    appId: "1:599869942046:web:1679eade47e4a7e06e810f"
 };
 // -----------------------------------------------------------------------
 
